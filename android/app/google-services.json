@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "671601054665",
+    "project_id": "cmsc23-dccaponpon",
+    "storage_bucket": "cmsc23-dccaponpon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671601054665:android:742edd626c09f7a62bce18",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671601054665-pu32h8cqnhsqi39lo90u0sj079anpkpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBvLnZbmL8GUuXxg0xBu-Nc5npxJW0API"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671601054665-pu32h8cqnhsqi39lo90u0sj079anpkpe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "671601054665-s6qal70b5vgo9r4dinlihi8e9oco3f9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.week7NetworkingDiscussion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
